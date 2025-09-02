@@ -26,3 +26,5 @@ In Copilot Chat, we only ask for this `repo` scope where it makes sense. We don'
 If you still don't want to consent, you can cancel the prompt that is shown and the extension will still function, though with reduced quality and performance in some scenarios.
 
 When a solution is available to reduce the scope of permissions required, we will update the extension to use the new solution.
+crawlback to start
+then delete
